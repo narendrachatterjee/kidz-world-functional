@@ -1,6 +1,5 @@
 var cartValue = document.getElementById("cart-value");
 var cartButton = document.getElementById("cart");
-
 var addButtons = document.getElementsByClassName("button");
 
 var items = [
